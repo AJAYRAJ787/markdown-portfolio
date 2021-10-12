@@ -5,7 +5,7 @@ My favorite things
 🌴
 
 In order,these are my favourite colours
-Blue
-Black
-Red
-Green
+1.Blue
+2.Black
+3.Red
+4.Green
